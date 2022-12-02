@@ -1,0 +1,6 @@
+/Users/admin/Projects/crawler/crawler/crawler
+/Users/admin/Projects/crawler/crawler/crawler.dll
+/Users/admin/Projects/crawler/crawler/crawler.deps.json
+/Users/admin/Projects/crawler/crawler/crawler.runtimeconfig.json
+/Users/admin/Projects/crawler/crawler/crawler.pdb
+/Users/admin/Projects/crawler/crawler/HtmlAgilityPack.dll

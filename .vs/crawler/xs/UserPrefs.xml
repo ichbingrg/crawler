@@ -1,0 +1,24 @@
+﻿<Properties StartupConfiguration="{1EF60189-C75A-4293-A19C-4FFBE143436F}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="crawler/Link.cs">
+    <Files>
+      <File FileName="crawler/Program.cs" Line="17" Column="6" />
+      <File FileName="crawler/EmptyClass.cs" Line="57" Column="51" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="crawler" expanded="True" selected="True">
+            <Node name="crawler" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.crawler PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,6 @@
+/Users/admin/Projects/crawler/crawler/bin/Debug/net5.0/publish/crawler
+/Users/admin/Projects/crawler/crawler/bin/Debug/net5.0/publish/crawler.dll
+/Users/admin/Projects/crawler/crawler/bin/Debug/net5.0/publish/crawler.deps.json
+/Users/admin/Projects/crawler/crawler/bin/Debug/net5.0/publish/crawler.runtimeconfig.json
+/Users/admin/Projects/crawler/crawler/bin/Debug/net5.0/publish/crawler.pdb
+/Users/admin/Projects/crawler/crawler/bin/Debug/net5.0/publish/HtmlAgilityPack.dll
